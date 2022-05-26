@@ -3,7 +3,7 @@
 ## Game Description:
 ~~~
 Simon is an electronic game of short-term memory skill. The App creates a series of sound and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex. It ends when the user click the wrong sequence. 
-
+~~~
 
 ## Languages Used to create this game:
 * HTML
